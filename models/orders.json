@@ -1,0 +1,17 @@
+{
+    "1": {
+        "description": "Доставка молока 100л",
+        "status": "Очікує",
+        "assigned_employee": null
+    },
+    "2": {
+        "description": "Чорний шоколад 5кг",
+        "status": "Очікує",
+        "assigned_employee": null
+    },
+    "3": {
+        "description": "Замовлення сирків 5кг",
+        "status": "Очікує",
+        "assigned_employee": null
+    }
+}

@@ -1,0 +1,1 @@
+from .warehouse_app import MainWindow

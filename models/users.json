@@ -1,0 +1,56 @@
+{
+    "ivan_ivanov_1": {
+        "id": "ivan_ivanov_1",
+        "name": "Іван",
+        "surname": "Іванов",
+        "disciplinary_records": [
+            "Запізнення"
+        ],
+        "orders": [
+            2
+        ],
+        "username": "vanya",
+        "password": "vanya2002",
+        "role": "Складський працівник",
+        "salary": 10000,
+        "bonus": 0
+    },
+    "anna_smirnova_2": {
+        "id": "anna_smirnova_2",
+        "name": "Анна",
+        "surname": "Смирнова",
+        "disciplinary_records": [],
+        "orders": [
+            1
+        ],
+        "username": "anna",
+        "password": "admin",
+        "role": "Менеджер",
+        "salary": 15000,
+        "bonus": 2000
+    },
+    "pavlo_petrenko_3": {
+        "id": "pavlo_petrenko_3",
+        "name": "Павло",
+        "surname": "Петренко",
+        "disciplinary_records": [],
+        "orders": [],
+        "username": "Pavlik",
+        "password": "adminadmin",
+        "role": "Адміністратор",
+        "salary": 0,
+        "bonus": 0
+    },
+    "null": {
+        "id": null,
+        "name": "Олег",
+        "surname": "Баран",
+        "disciplinary_records": [],
+        "orders": [],
+        "username": "oleg",
+        "password": "olegg",
+        "role": "Складський працівник",
+        "salary": 15000.0,
+        "bonus": 0
+    }
+}

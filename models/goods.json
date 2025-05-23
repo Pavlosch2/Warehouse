@@ -1,0 +1,16 @@
+{
+    "4": {
+        "name": "Сирки",
+        "description": "Молочні",
+        "quantity": 20,
+        "price": 100.0,
+        "verified": true
+    },
+    "2": {
+        "name": "Відро",
+        "description": "Алюмініве",
+        "quantity": 20,
+        "price": 100.0,
+        "verified": false
+    }
+}
