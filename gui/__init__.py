@@ -1,1 +1,1 @@
-from .warehouse_app import MainWindow
+from gui.warehouse_app import WarehouseApp
