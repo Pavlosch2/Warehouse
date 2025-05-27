@@ -13,5 +13,15 @@
         "description": "Замовлення сирків 5кг",
         "status": "Очікує",
         "assigned_employee": null
+    },
+    "4": {
+        "description": "Зошити на 24 сторінки 10шт",
+        "status": "Очікує",
+        "assigned_employee": null
+    },
+    "5": {
+        "description": "1000 листків формату А4",
+        "status": "Очікує",
+        "assigned_employee": null
     }
 }

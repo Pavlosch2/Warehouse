@@ -44,7 +44,7 @@ class Employee:
 
     @classmethod
     def load_employees(cls):
-        Employee.employees.clear()  # Очищаємо список перед завантаженням
+        Employee.employees.clear()
         try:
             if os.path.exists(cls.__users_data_file):
                 with open(cls.__users_data_file, "r", encoding="utf-8") as f:
